@@ -25,6 +25,8 @@ import com.vaadin.ui.TabSheet;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.Window;
 
+//-->>  TEST EDIT FROM LOCAL MACHINE
+
 
 public class BreedingManagerApplication extends SpringContextApplication implements ApplicationContextAware{
     private final static Logger LOG = LoggerFactory.getLogger(BreedingManagerApplication.class);
