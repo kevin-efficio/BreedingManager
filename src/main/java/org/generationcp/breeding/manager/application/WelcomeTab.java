@@ -16,6 +16,8 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.TabSheet;
 import com.vaadin.ui.VerticalLayout;
 
+//test
+
 @Configurable
 public class WelcomeTab extends VerticalLayout implements InitializingBean, InternationalizableComponent{
     
