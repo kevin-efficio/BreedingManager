@@ -2,6 +2,7 @@ package org.generationcp.breeding.manager.application;
 
 
 public enum Message{
+	//testing making a change
     MAIN_WINDOW_CAPTION
     ,BACK
     ,DONE
